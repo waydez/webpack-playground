@@ -9,6 +9,6 @@ cd ./webpack-playground
 
 npm install
 
-npm run start
+npm run dev
 ```
 
